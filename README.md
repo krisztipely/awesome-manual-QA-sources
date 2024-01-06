@@ -14,7 +14,7 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 ## Documentation
 
-[Test Documentation basis](https://www.qamadness.com/what-is-test-documentation-and-why-do-we-need-it/)
+[Test Documentation basics](https://www.qamadness.com/what-is-test-documentation-and-why-do-we-need-it/)
 
 [Test Plan](https://www.browserstack.com/guide/test-planning)
 
