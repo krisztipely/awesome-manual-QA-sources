@@ -12,6 +12,10 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [Another very useful tutorial site about the basics](https://www.guru99.com/manual-testing.html)
 
+[QA Methodologies](https://www.guru99.com/testing-methodology.html)
+
+[Agile testing, everything to know](https://www.guru99.com/agile-testing-course.html)
+
 ## Documentation
 
 [Test Documentation basics](https://www.qamadness.com/what-is-test-documentation-and-why-do-we-need-it/)
@@ -29,6 +33,14 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 
 [BDD](https://cucumber.io/docs/bdd/)
+
+## Practice
+
+[Lots of practical info and practice](https://demoqa.com/)
+
+[Bug practice and knowledge](https://academybugs.com/)
+
+[Mobile App](https://www.saucedemo.com/)
 
 ## Test Management Tools
 
