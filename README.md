@@ -34,6 +34,8 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [BDD](https://cucumber.io/docs/bdd/)
 
+[Test Management](https://www.browserstack.com/guide/what-is-test-management)
+
 ## Practice
 
 [Lots of practical info and practice](https://demoqa.com/)
