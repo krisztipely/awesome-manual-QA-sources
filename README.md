@@ -62,8 +62,8 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [Martin Fowler about testing](https://martinfowler.com/bliki/TestPyramid.html)
 
-[What is an iteration](https://www.agilealliance.org/glossary/iteration/)https://www.agilealliance.org/glossary/iteration/
+[What is an iteration](https://www.agilealliance.org/glossary/iteration/)
 
-[What is smoke testing](https://www.guru99.com/smoke-testing.html)https://www.guru99.com/smoke-testing.html
+[What is smoke testing](https://www.guru99.com/smoke-testing.html)
 
-[Smoke vs. Sanity testing](https://www.guru99.com/smoke-sanity-testing.html)https://www.guru99.com/smoke-sanity-testing.html
+[Smoke vs. Sanity testing](https://www.guru99.com/smoke-sanity-testing.html)
