@@ -30,6 +30,10 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [Bug report](https://www.browserstack.com/guide/how-to-write-a-bug-report)
 
+[User stories](https://www.atlassian.com/agile/project-management/user-stories)
+
+[Stories, epics, initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)
+
 [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 
 [BDD](https://cucumber.io/docs/bdd/)
