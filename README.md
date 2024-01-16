@@ -61,3 +61,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Test Cases with many tutorials](https://www.softwaretestinghelp.com/how-to-write-effective-test-cases-test-cases-procedures-and-definitions/)
 
 [Martin Fowler about testing](https://martinfowler.com/bliki/TestPyramid.html)
+
+[What is an iteration](https://www.agilealliance.org/glossary/iteration/)https://www.agilealliance.org/glossary/iteration/
