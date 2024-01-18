@@ -32,6 +32,8 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [User stories](https://www.atlassian.com/agile/project-management/user-stories)
 
+[How to write test cases to user stories](https://testsigma.com/blog/user-stories-in-testing/)
+
 [Stories, epics, initiatives](https://www.atlassian.com/agile/project-management/epics-stories-themes)
 
 [Gherkin](https://cucumber.io/docs/gherkin/reference/)
