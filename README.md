@@ -71,3 +71,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Smoke vs. Sanity testing](https://www.guru99.com/smoke-sanity-testing.html)
 
 [Azure devops tutorial](https://www.sourcedgroup.com/resources/tutorial/what-is-azure-devops/)
+
+[Integration testing](https://www.browserstack.com/guide/integration-testing)
