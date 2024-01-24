@@ -73,3 +73,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Azure devops tutorial](https://www.sourcedgroup.com/resources/tutorial/what-is-azure-devops/)
 
 [Integration testing](https://www.browserstack.com/guide/integration-testing)
+
+[SQL queries](https://www.w3schools.com/sql/)
