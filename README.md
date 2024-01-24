@@ -28,6 +28,8 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [Test Cases](https://www.coursera.org/articles/how-to-write-test-cases)
 
+[Test Case prioritization](https://www.browserstack.com/guide/test-case-prioritization)
+
 [Bug report](https://www.browserstack.com/guide/how-to-write-a-bug-report)
 
 [User stories](https://www.atlassian.com/agile/project-management/user-stories)
