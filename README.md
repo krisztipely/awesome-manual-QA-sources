@@ -79,3 +79,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Integration testing](https://www.browserstack.com/guide/integration-testing)
 
 [SQL queries](https://www.w3schools.com/sql/)
+
+[DevTools](https://developer.chrome.com/docs/devtools/)
