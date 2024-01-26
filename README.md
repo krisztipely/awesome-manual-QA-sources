@@ -81,3 +81,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [SQL queries](https://www.w3schools.com/sql/)
 
 [DevTools](https://developer.chrome.com/docs/devtools/)
+
+[Elastic](https://www.elastic.co/learn)
