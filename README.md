@@ -83,3 +83,7 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [DevTools](https://developer.chrome.com/docs/devtools/)
 
 [Elastic](https://www.elastic.co/learn)
+
+[pgAdmin](https://www.pgadmin.org/)
+
+[PostgreSQL](https://www.w3schools.com/postgresql/index.php)
