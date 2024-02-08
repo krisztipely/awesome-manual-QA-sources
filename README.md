@@ -88,4 +88,10 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [PostgreSQL](https://www.w3schools.com/postgresql/index.php)
 
+[What is docker](https://www.geeksforgeeks.org/introduction-to-docker/)
+
+[Docker cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
+
+
+
 [Clockify](https://clockify.me/)
