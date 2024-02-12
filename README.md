@@ -80,6 +80,8 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 
 [SQL queries](https://www.w3schools.com/sql/)
 
+[SQL cheatsheet](https://www.datacamp.com/cheat-sheet/sql-basics-cheat-sheet)
+
 [DevTools](https://developer.chrome.com/docs/devtools/)
 
 [Elastic](https://www.elastic.co/learn)
@@ -91,7 +93,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [What is docker](https://www.geeksforgeeks.org/introduction-to-docker/)
 
 [Docker cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
-
-
 
 [Clockify](https://clockify.me/)
