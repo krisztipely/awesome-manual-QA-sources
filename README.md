@@ -95,3 +95,5 @@ Maintainers - [Krisztina Ronkainen-Lakner](https://github.com/krisztipely)
 [Docker cheatsheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)
 
 [Clockify](https://clockify.me/)
+
+[JavaScript cheatsheet](https://htmlcheatsheet.com/js/)
